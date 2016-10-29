@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}|Default">
+  <MonoDevelop.Ide.ItemProperties.GoogleMapsAdvSample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.90A73F6A-A5E4-4F6A-976B-232A10FF3198" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
